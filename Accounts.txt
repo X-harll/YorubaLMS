@@ -1,0 +1,12 @@
+User Information:
+val:va
+sammy:sammy
+BEJO1:12345
+fffff:fffff
+
+Student Information:
+Apostle Sammy:SammyA@gmail.com
+gdgdgdg:gdgdgdgdg
+Java Class 1:javaclass1@gmail.com
+Valentine Nwokoro:Valentine@gmail.com
+
